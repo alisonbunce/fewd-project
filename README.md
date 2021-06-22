@@ -18,6 +18,14 @@ The project: Create a marketing campaign help users understand the value to even
 Project proposal: Create a flyer that featured quotes of the value of s4
 
 My solution: Create a user prompted search tool that allowed the user to discover and understand the value of s4 on their on, based on their needs. And then be able to track/assess future user needs.
+
+Business Use Cases:
+__________________
+1. data for daily op use = yes
+2. data creation = yes
+3. reference data management = yes
+4. find a tableau dashboard = no
+
 __________________
 
 CODE

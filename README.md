@@ -19,8 +19,10 @@ Project proposal: Create a flyer that featured quotes of the value of s4
 
 My solution: Create a user prompted search tool that allowed the user to discover and understand the value of s4 on their on, based on their needs. And then be able to track/assess future user needs.
 
-Business Use Cases:
+
 __________________
+Business Use Cases:
+
 1. data for daily op use = yes
 2. data creation = yes
 3. reference data management = yes

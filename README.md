@@ -32,7 +32,7 @@ __________________
 
 CODE
 __________________
-Line 1, we have a document and doc is a html doc and the js is listening to html
+Line 1= we have a document and doc is a html doc and the js is listening to html
 
 Line 2= we are grabing the element by the Id of search form because we are grabbing the entire search form
 
@@ -42,8 +42,8 @@ Line 4= natural state of form is to refersh when you click something but we don�
 
 Line 5= creating variable called inputval that is grabbing the element by the id of search term and that value is going to get us that value.
 
-Line 7= if the input value == “”
+Line 7= if the input value == “1/4 specified texts”
 Line 8= we are setting the inter html value of the element by the id of sr-results to be ‘yes’
 
-Line 8- you can use 
+Line 9+= 
 Implementing the same function in line 8 throughout the rest of the if/else statement
